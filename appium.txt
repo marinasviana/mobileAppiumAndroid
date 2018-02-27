@@ -1,0 +1,10 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5X API 27"
+app = "/Users/m.siqueira.viana/Documents/TesteAppium/mobileAppiumAndroid/build/apk/TrianguloApp.apk"
+appPackage = "com.eliasnogueira.trianguloapp"
+
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""
